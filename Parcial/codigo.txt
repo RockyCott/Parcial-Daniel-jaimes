@@ -1,31 +1,30 @@
-.btn{
-	color:white;
-	background-color:#e74c3c;
-	outline: none;
-    border: 0;
-    color: #fff;
-	padding:10px 20px;
-	text-transform:uppercase;
-	margin-top:30px;
-	border-radius:2px;
-	cursor:pointer;
-	position:relative;
+1) valor 5 HTML se define como?:
+• Un lenguaje de programación .
+X Un lenguaje de marcado que define la estructura de tu contenido.
+• Un lenguaje de Estilos que define la forma de tu contenidos.
+• Un lenguaje de Estilos que define la escritura de tu contenido.
 
-}
-.btn:right{
-	content:"";
-	position:absolute;
-	background:rgba(0,0,0,0.50);
-	top:0;
-	right:0;
-	width:100%;
-	height:100%;
-}
+2) valor 5 CSS se define como?:
+X Es el lenguaje de estilos utilizado para describir la presentación de documentos HTML o XML.
+• Es el lenguaje de marcado utilizado para describir la presentación de documentos HTML o Doc.
+• Es el lenguaje de programación utilizado para formatear la presentación de documentos HTML
+o XML.
+• Es un lenguaje de programación para visualizar datos.
 
-{
-    $("#tabla").load('arcgustos.php');
-    return false;
-}
+3) valor 5 En qué lugar se ejecuta generalmente el código JavaScript
+• Solo en el Servidor
+• Solo en el cliente
+X por lo general en el cliente, pero se puede ejecutar en el servidor.
+• En el router.
 
-event.preventDefault();
-        $(this).closest('tr').remove();
+4) valor 5 jquery es :
+• un lenguaje de programación.
+• Un conjunto de tecnologías que permiten hacer código para el DOM.
+• Un ID de desarrollo.
+X una biblioteca multiplataforma de JavaScript.
+
+5) valor 5 Javascript nos permite modificar:
+• La estructura y contenido de una página web.
+• La presentación de una página web.
+X La estructura, contenido y presentación de una página web
+• Ninguna de las anteriores es correcta.
