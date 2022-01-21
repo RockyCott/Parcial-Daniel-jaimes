@@ -1,0 +1,10 @@
+la parte teorica se encuentra en el archivo llamado codigo.txt dentro de la carpeta parcial.
+
+la carpeta parcial mejorado es simplemente unos arreglos que se hizo a algunas etiquetas y algo de diseño.
+
+cosas por mejorar{
+
+-la bandera junto a la tabla
+-agregar link de volver al sitio P web que por el momento no se sabe a donde dirige.
+
+{
